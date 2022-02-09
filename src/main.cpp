@@ -3,7 +3,7 @@
 #include "numerics.hpp"
 #include "resource_id.cpp"
 
-void b() {
+void aufgabeb() {
   vector n(my_vector());
   std::cout << n.x << " " << n.y << " " << n.z;
 }
