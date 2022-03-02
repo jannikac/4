@@ -1,3 +1,9 @@
+---
+title: "Aufgaben 2 - Zeigerarithmetik"
+author: [Jannik Steinbach, Thore Böger, Johannes Städter]
+date: "26. 01. 2022"
+...
+
 # Aufgaben 4 - Funktionen und Klassen
 
 Aktualisierte `string`, `string_shared_pointer`, `string_weak_pointer` und `rc` Klassen können Sie auch im `src` Ordner finden.
